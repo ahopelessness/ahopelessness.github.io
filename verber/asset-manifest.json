@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.54eb8ff7.chunk.css",
-    "main.js": "/static/js/main.5c9d679b.chunk.js",
-    "main.js.map": "/static/js/main.5c9d679b.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.b1b8b76e.chunk.js": "/static/js/2.b1b8b76e.chunk.js",
-    "static/js/2.b1b8b76e.chunk.js.map": "/static/js/2.b1b8b76e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.69fe229cfc0d85065bb081172f8f1d9c.js": "/precache-manifest.69fe229cfc0d85065bb081172f8f1d9c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.54eb8ff7.chunk.css.map": "/static/css/main.54eb8ff7.chunk.css.map"
+    "main.css": "/verber/static/css/main.54eb8ff7.chunk.css",
+    "main.js": "/verber/static/js/main.470b4878.chunk.js",
+    "main.js.map": "/verber/static/js/main.470b4878.chunk.js.map",
+    "runtime~main.js": "/verber/static/js/runtime~main.bb07e8aa.js",
+    "runtime~main.js.map": "/verber/static/js/runtime~main.bb07e8aa.js.map",
+    "static/js/2.b1b8b76e.chunk.js": "/verber/static/js/2.b1b8b76e.chunk.js",
+    "static/js/2.b1b8b76e.chunk.js.map": "/verber/static/js/2.b1b8b76e.chunk.js.map",
+    "index.html": "/verber/index.html",
+    "precache-manifest.ff7850218c20818b8aad62704f5a27dd.js": "/verber/precache-manifest.ff7850218c20818b8aad62704f5a27dd.js",
+    "service-worker.js": "/verber/service-worker.js",
+    "static/css/main.54eb8ff7.chunk.css.map": "/verber/static/css/main.54eb8ff7.chunk.css.map"
   }
 }
