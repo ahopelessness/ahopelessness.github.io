@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/verber/static/css/main.3da806ef.chunk.css",
-    "main.js": "/verber/static/js/main.ce61bd27.chunk.js",
-    "main.js.map": "/verber/static/js/main.ce61bd27.chunk.js.map",
+    "main.css": "/verber/static/css/main.b7c21b38.chunk.css",
+    "main.js": "/verber/static/js/main.5886b3d8.chunk.js",
+    "main.js.map": "/verber/static/js/main.5886b3d8.chunk.js.map",
     "runtime~main.js": "/verber/static/js/runtime~main.bb07e8aa.js",
     "runtime~main.js.map": "/verber/static/js/runtime~main.bb07e8aa.js.map",
-    "static/js/2.7cc4cab9.chunk.js": "/verber/static/js/2.7cc4cab9.chunk.js",
-    "static/js/2.7cc4cab9.chunk.js.map": "/verber/static/js/2.7cc4cab9.chunk.js.map",
+    "static/js/2.23130828.chunk.js": "/verber/static/js/2.23130828.chunk.js",
+    "static/js/2.23130828.chunk.js.map": "/verber/static/js/2.23130828.chunk.js.map",
     "index.html": "/verber/index.html",
-    "precache-manifest.52049e6b00e2163f2bad717cc07cff9a.js": "/verber/precache-manifest.52049e6b00e2163f2bad717cc07cff9a.js",
+    "precache-manifest.e736987625b555b229fa74f08d2e98a8.js": "/verber/precache-manifest.e736987625b555b229fa74f08d2e98a8.js",
     "service-worker.js": "/verber/service-worker.js",
-    "static/css/main.3da806ef.chunk.css.map": "/verber/static/css/main.3da806ef.chunk.css.map"
+    "static/css/main.b7c21b38.chunk.css.map": "/verber/static/css/main.b7c21b38.chunk.css.map"
   }
 }
