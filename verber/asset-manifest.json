@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/verber/static/css/main.ab50cdb6.chunk.css",
-    "main.js": "/verber/static/js/main.84be207a.chunk.js",
-    "main.js.map": "/verber/static/js/main.84be207a.chunk.js.map",
+    "main.js": "/verber/static/js/main.5b061fd3.chunk.js",
+    "main.js.map": "/verber/static/js/main.5b061fd3.chunk.js.map",
     "runtime~main.js": "/verber/static/js/runtime~main.bb07e8aa.js",
     "runtime~main.js.map": "/verber/static/js/runtime~main.bb07e8aa.js.map",
     "static/js/2.bbaa04f0.chunk.js": "/verber/static/js/2.bbaa04f0.chunk.js",
     "static/js/2.bbaa04f0.chunk.js.map": "/verber/static/js/2.bbaa04f0.chunk.js.map",
     "index.html": "/verber/index.html",
-    "precache-manifest.974fe5ca025f0ac2ac9d269a24e73c7d.js": "/verber/precache-manifest.974fe5ca025f0ac2ac9d269a24e73c7d.js",
+    "precache-manifest.ebe939bb78d8107ac9426a6601f82bdd.js": "/verber/precache-manifest.ebe939bb78d8107ac9426a6601f82bdd.js",
     "service-worker.js": "/verber/service-worker.js",
     "static/css/main.ab50cdb6.chunk.css.map": "/verber/static/css/main.ab50cdb6.chunk.css.map"
   }
