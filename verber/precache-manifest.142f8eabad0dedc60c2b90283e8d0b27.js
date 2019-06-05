@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f7ca34a71225722d7aa1eba0f45a652",
+    "revision": "4d44b6d0179fc7ca808c77ce5223f485",
     "url": "/verber/index.html"
   },
   {
-    "revision": "2cf233681ec33bce8dfe",
+    "revision": "a2323c52df9f3bf8a464",
     "url": "/verber/static/css/main.ab50cdb6.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/verber/static/js/2.bbaa04f0.chunk.js"
   },
   {
-    "revision": "2cf233681ec33bce8dfe",
-    "url": "/verber/static/js/main.7c0f69f3.chunk.js"
+    "revision": "a2323c52df9f3bf8a464",
+    "url": "/verber/static/js/main.a554fcc1.chunk.js"
   },
   {
     "revision": "6642929adc591f8ca87b",
